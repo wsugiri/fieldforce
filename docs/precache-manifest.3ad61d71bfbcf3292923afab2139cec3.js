@@ -12,14 +12,6 @@ self.__precacheManifest = [
     "url": "js/31f75955.fdb16f84.js"
   },
   {
-    "revision": "a13b2bd5261e2df374128df1aab93001",
-    "url": "statics/icons/icon-512x512.png"
-  },
-  {
-    "revision": "3a5114abf45e551e3571",
-    "url": "js/43aff88b.bfb1abcb.js"
-  },
-  {
     "revision": "a9ff913a3c17b881b663",
     "url": "js/4b47640d.21cfc388.js"
   },
@@ -28,24 +20,36 @@ self.__precacheManifest = [
     "url": "statics/quasar-logo.png"
   },
   {
-    "revision": "10f0417aff9c749e7775",
-    "url": "js/app.10cf1c72.js"
+    "revision": "5687c94dcda16d47ea1a",
+    "url": "js/6b574feb.226c58ee.js"
   },
   {
     "revision": "ed12d10fd0407eea42ccaf7af7991146",
     "url": "statics/icons/ms-icon-144x144.png"
   },
   {
+    "revision": "1a54b61422886eea7c2a",
+    "url": "js/app.88ead0ad.js"
+  },
+  {
+    "revision": "a13b2bd5261e2df374128df1aab93001",
+    "url": "statics/icons/icon-512x512.png"
+  },
+  {
     "revision": "3dd395bd9f865d135c43",
     "url": "js/ef4a2a18.7b108437.js"
   },
   {
-    "revision": "1f61c90354261377f978",
-    "url": "js/vendor.b56f9ee0.js"
+    "revision": "6bdd8f65b61197175158",
+    "url": "js/vendor.a72cd740.js"
   },
   {
     "revision": "66d7719a8ca03c1a591444c013802817",
     "url": "statics/icons/icon-384x384.png"
+  },
+  {
+    "revision": "20c6420ccf16a07d9d56538e30a6b524",
+    "url": "statics/icons/icon-256x256.png"
   },
   {
     "revision": "8c4120b4e88276badbc808e518572fad",
@@ -54,10 +58,6 @@ self.__precacheManifest = [
   {
     "revision": "da2b422e2895b9b9c1782a71b6be9d63",
     "url": "statics/icons/apple-icon-152x152.png"
-  },
-  {
-    "revision": "20c6420ccf16a07d9d56538e30a6b524",
-    "url": "statics/icons/icon-256x256.png"
   },
   {
     "revision": "2f9d7587924933c1912c342b190b53ca",
@@ -72,20 +72,20 @@ self.__precacheManifest = [
     "url": "statics/icons/icon-128x128.png"
   },
   {
+    "revision": "8c2ade503b34e31430d6c98aa29a52a3",
+    "url": "fonts/KFOlCnqEu92Fr1MmYUtfBBc-.8c2ade50.woff"
+  },
+  {
+    "revision": "b16d8d26a08c651daaf615497a843d08",
+    "url": "index.html"
+  },
+  {
     "revision": "cf6613d1adf490972c557a8e318e0868",
     "url": "fonts/KFOlCnqEu92Fr1MmWUlfBBc-.cf6613d1.woff"
   },
   {
-    "revision": "b38e762d5faf508109bf335582acf427",
-    "url": "index.html"
-  },
-  {
-    "revision": "a1471d1d6431c893582a5f6a250db3f9",
-    "url": "fonts/KFOlCnqEu92Fr1MmSU5fBBc-.a1471d1d.woff"
-  },
-  {
-    "revision": "8b7a9afd7b95f62e6ee8a72930bfb9ed",
-    "url": "fonts/fa-brands-400.8b7a9afd.woff"
+    "revision": "659c4d58b00226541ef95c3a76e169c5",
+    "url": "fonts/fa-brands-400.659c4d58.woff2"
   },
   {
     "revision": "fb493903265cad425ccdf8e04fc2de61",
@@ -104,20 +104,20 @@ self.__precacheManifest = [
     "url": "fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.8a9a261c.woff2"
   },
   {
-    "revision": "bdadb6ce95c5a2e7b673940721450d3c",
-    "url": "fonts/fa-regular-400.bdadb6ce.woff2"
+    "revision": "8b7a9afd7b95f62e6ee8a72930bfb9ed",
+    "url": "fonts/fa-brands-400.8b7a9afd.woff"
   },
   {
-    "revision": "659c4d58b00226541ef95c3a76e169c5",
-    "url": "fonts/fa-brands-400.659c4d58.woff2"
+    "revision": "bdadb6ce95c5a2e7b673940721450d3c",
+    "url": "fonts/fa-regular-400.bdadb6ce.woff2"
   },
   {
     "revision": "bafb105baeb22d965c70fe52ba6b49d9",
     "url": "fonts/KFOmCnqEu92Fr1Mu4mxM.bafb105b.woff"
   },
   {
-    "revision": "8c2ade503b34e31430d6c98aa29a52a3",
-    "url": "fonts/KFOlCnqEu92Fr1MmYUtfBBc-.8c2ade50.woff"
+    "revision": "a1471d1d6431c893582a5f6a250db3f9",
+    "url": "fonts/KFOlCnqEu92Fr1MmSU5fBBc-.a1471d1d.woff"
   },
   {
     "revision": "de8b7431b74642e830af4d4f4b513ec9",
@@ -132,12 +132,12 @@ self.__precacheManifest = [
     "url": "css/ef4a2a18.bbe6189d.css"
   },
   {
-    "revision": "10f0417aff9c749e7775",
+    "revision": "1a54b61422886eea7c2a",
     "url": "css/app.3135110d.css"
   },
   {
-    "revision": "3a5114abf45e551e3571",
-    "url": "css/43aff88b.d301c9cc.css"
+    "revision": "5687c94dcda16d47ea1a",
+    "url": "css/6b574feb.d11e0093.css"
   },
   {
     "revision": "df4d81b96796514a7d33",
