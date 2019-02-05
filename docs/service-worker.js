@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.fc5167acf4da130bcf34421bbc4cd21f.js"
+  "precache-manifest.b5dc60883e2a09a1d3f7f1687057ee7a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "field-force"});
