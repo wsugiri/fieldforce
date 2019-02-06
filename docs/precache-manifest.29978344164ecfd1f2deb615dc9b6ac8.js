@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "cf6613d1adf490972c557a8e318e0868",
-    "url": "fonts/KFOlCnqEu92Fr1MmWUlfBBc-.cf6613d1.woff"
+    "revision": "8c2ade503b34e31430d6c98aa29a52a3",
+    "url": "fonts/KFOlCnqEu92Fr1MmYUtfBBc-.8c2ade50.woff"
   },
   {
     "revision": "98922025eb9279f517e2ba8d1be029c5",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "js/app.7f97174d.js"
   },
   {
-    "revision": "8c4120b4e88276badbc808e518572fad",
-    "url": "statics/icons/icon-192x192.png"
+    "revision": "20c6420ccf16a07d9d56538e30a6b524",
+    "url": "statics/icons/icon-256x256.png"
   },
   {
     "revision": "3dd395bd9f865d135c43",
@@ -68,28 +68,28 @@ self.__precacheManifest = [
     "url": "js/vendor.be3fd8af.js"
   },
   {
-    "revision": "20c6420ccf16a07d9d56538e30a6b524",
-    "url": "statics/icons/icon-256x256.png"
-  },
-  {
-    "revision": "da2b422e2895b9b9c1782a71b6be9d63",
-    "url": "statics/icons/apple-icon-152x152.png"
+    "revision": "8c4120b4e88276badbc808e518572fad",
+    "url": "statics/icons/icon-192x192.png"
   },
   {
     "revision": "3020c8ac2c2872dec7741e5948520093",
     "url": "statics/icons/icon-128x128.png"
   },
   {
-    "revision": "2f9d7587924933c1912c342b190b53ca",
-    "url": "statics/icons/favicon-32x32.png"
+    "revision": "efb00e57304380d857603760600da5d5",
+    "url": "statics/icons/favicon-16x16.png"
+  },
+  {
+    "revision": "da2b422e2895b9b9c1782a71b6be9d63",
+    "url": "statics/icons/apple-icon-152x152.png"
   },
   {
     "revision": "85116475cc6b73dfdeb3",
     "url": "js/219f4870.eccc8649.js"
   },
   {
-    "revision": "efb00e57304380d857603760600da5d5",
-    "url": "statics/icons/favicon-16x16.png"
+    "revision": "2f9d7587924933c1912c342b190b53ca",
+    "url": "statics/icons/favicon-32x32.png"
   },
   {
     "revision": "de8b7431b74642e830af4d4f4b513ec9",
@@ -132,8 +132,8 @@ self.__precacheManifest = [
     "url": "fonts/fa-brands-400.659c4d58.woff2"
   },
   {
-    "revision": "8c2ade503b34e31430d6c98aa29a52a3",
-    "url": "fonts/KFOlCnqEu92Fr1MmYUtfBBc-.8c2ade50.woff"
+    "revision": "cf6613d1adf490972c557a8e318e0868",
+    "url": "fonts/KFOlCnqEu92Fr1MmWUlfBBc-.cf6613d1.woff"
   },
   {
     "revision": "a1471d1d6431c893582a5f6a250db3f9",
