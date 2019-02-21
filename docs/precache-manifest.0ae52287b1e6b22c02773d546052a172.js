@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "js/vendor.5334eb25.js"
   },
   {
-    "revision": "391d18dbc3136cb67adc7b90b3c2a71c",
+    "revision": "541fd25314a29db3312469a85d6ce5bc",
     "url": "index.html"
   },
   {
-    "revision": "3020c8ac2c2872dec7741e5948520093",
-    "url": "statics/quasar-logo.png"
+    "revision": "ed12d10fd0407eea42ccaf7af7991146",
+    "url": "statics/icons/ms-icon-144x144.png"
   },
   {
     "revision": "85116475cc6b73dfdeb3",
@@ -28,16 +28,16 @@ self.__precacheManifest = [
     "url": "js/2d23118b.27eeaaa7.js"
   },
   {
-    "revision": "ed12d10fd0407eea42ccaf7af7991146",
-    "url": "statics/icons/ms-icon-144x144.png"
-  },
-  {
-    "revision": "fe89d568d2da80548008",
-    "url": "js/2f2f1c00.f79785ba.js"
-  },
-  {
     "revision": "a13b2bd5261e2df374128df1aab93001",
     "url": "statics/icons/icon-512x512.png"
+  },
+  {
+    "revision": "b83e59e0a04b7dbfcab7",
+    "url": "js/2f2f1c00.de2fd664.js"
+  },
+  {
+    "revision": "3020c8ac2c2872dec7741e5948520093",
+    "url": "statics/quasar-logo.png"
   },
   {
     "revision": "b3ea851d8579f16a62a5",
@@ -48,36 +48,36 @@ self.__precacheManifest = [
     "url": "js/4b47640d.21cfc388.js"
   },
   {
-    "revision": "66d7719a8ca03c1a591444c013802817",
-    "url": "statics/icons/icon-384x384.png"
+    "revision": "20c6420ccf16a07d9d56538e30a6b524",
+    "url": "statics/icons/icon-256x256.png"
   },
   {
     "revision": "3a46db49a0d3ebe18269",
     "url": "js/52a37bc1.08e78c28.js"
   },
   {
-    "revision": "20c6420ccf16a07d9d56538e30a6b524",
-    "url": "statics/icons/icon-256x256.png"
+    "revision": "66d7719a8ca03c1a591444c013802817",
+    "url": "statics/icons/icon-384x384.png"
   },
   {
     "revision": "eaa828f992d5f9855e1a",
     "url": "js/59102468.38428c5a.js"
   },
   {
-    "revision": "8c4120b4e88276badbc808e518572fad",
-    "url": "statics/icons/icon-192x192.png"
-  },
-  {
-    "revision": "87721b11e1e39b12ffa1",
-    "url": "js/a5444718.8136e1b2.js"
-  },
-  {
     "revision": "3020c8ac2c2872dec7741e5948520093",
     "url": "statics/icons/icon-128x128.png"
   },
   {
-    "revision": "0b98d64b558d85c27cd6",
-    "url": "js/app.c45454f4.js"
+    "revision": "37f7e419af47c6c5782a",
+    "url": "js/94ee665c.b04de151.js"
+  },
+  {
+    "revision": "8c4120b4e88276badbc808e518572fad",
+    "url": "statics/icons/icon-192x192.png"
+  },
+  {
+    "revision": "ca52df46614f72ce76b4",
+    "url": "js/app.377145fe.js"
   },
   {
     "revision": "2f9d7587924933c1912c342b190b53ca",
@@ -116,8 +116,8 @@ self.__precacheManifest = [
     "url": "fonts/KFOkCnqEu92Fr1MmgVxIIzQ.e9dbbe8a.woff"
   },
   {
-    "revision": "a1471d1d6431c893582a5f6a250db3f9",
-    "url": "fonts/KFOlCnqEu92Fr1MmSU5fBBc-.a1471d1d.woff"
+    "revision": "bafb105baeb22d965c70fe52ba6b49d9",
+    "url": "fonts/KFOmCnqEu92Fr1Mu4mxM.bafb105b.woff"
   },
   {
     "revision": "de8b7431b74642e830af4d4f4b513ec9",
@@ -156,8 +156,8 @@ self.__precacheManifest = [
     "url": "fonts/fa-regular-400.0b5e3a54.woff"
   },
   {
-    "revision": "bafb105baeb22d965c70fe52ba6b49d9",
-    "url": "fonts/KFOmCnqEu92Fr1Mu4mxM.bafb105b.woff"
+    "revision": "a1471d1d6431c893582a5f6a250db3f9",
+    "url": "fonts/KFOlCnqEu92Fr1MmSU5fBBc-.a1471d1d.woff"
   },
   {
     "revision": "bcb927a742a8370b76642fd1a9a749c0",
@@ -180,12 +180,12 @@ self.__precacheManifest = [
     "url": "css/b2b683d0.20f120ce.css"
   },
   {
-    "revision": "0b98d64b558d85c27cd6",
+    "revision": "ca52df46614f72ce76b4",
     "url": "css/app.50f29ba4.css"
   },
   {
-    "revision": "87721b11e1e39b12ffa1",
-    "url": "css/a5444718.e3ac835d.css"
+    "revision": "37f7e419af47c6c5782a",
+    "url": "css/94ee665c.657a4c54.css"
   },
   {
     "revision": "3a46db49a0d3ebe18269",
@@ -196,7 +196,7 @@ self.__precacheManifest = [
     "url": "css/4019726a.09ae9eb6.css"
   },
   {
-    "revision": "fe89d568d2da80548008",
+    "revision": "b83e59e0a04b7dbfcab7",
     "url": "css/2f2f1c00.fd96350b.css"
   },
   {
